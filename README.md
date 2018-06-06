@@ -1,2 +1,2 @@
-# Touch-Screen-based-fully-Digital-Instrument-cluster-Using-Raspberry-Pi-3-and-QT-QML-and-C-
+# Touch-Screen-based-fully-Digital-Instrument-cluster-Using-Raspberry-Pi-,CPP-and-QT-QML
 This is a freelance project developed by me when i got a chance to work with a very early startup as a freelancer . Those guy were developing a two wheeler electric sports bike! This is a fully Digital touch screen based vehicle instrument cluster. Features of the cluster involves a circular gauge based design, Turn indicators, fuel meter, RPM meter and engine temperature. I'll explain everything, right from the start!
