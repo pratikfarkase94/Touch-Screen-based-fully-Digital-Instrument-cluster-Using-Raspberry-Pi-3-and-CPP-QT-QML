@@ -1,4 +1,4 @@
-# Touch-Screen-based-fully-Digital-Instrument-cluster-Using-Raspberry-Pi-,CPP-and-QT-QML
+# Touch-Screen-based-fully-Digital-Instrument-cluster-Using-Raspberry-Pi-3,CPP-and-QT-QML
 
 ![alt text](https://github.com/pratikfarkase94/Touch-Screen-based-fully-Digital-Instrument-cluster-Using-Raspberry-Pi-3-and-CPP-QT-QML/blob/master/IMG-20180606-WA0001.jpg)
 ![alt text](https://github.com/pratikfarkase94/Touch-Screen-based-fully-Digital-Instrument-cluster-Using-Raspberry-Pi-3-and-CPP-QT-QML/blob/master/IMG-20180606-WA0002.jpg)
